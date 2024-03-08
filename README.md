@@ -13,7 +13,7 @@ This directory stores the dataset of the related to enterprises, a total of thre
 | Detailed information of Company_TianYanCha.xlsx | The registration information of the enterprises | The TianYanCha website (https://www.tianyancha.com) |
 | Partial patent data_Incopat.xlsx                | The patent data of enterprises                  | The IncoPat website (https://www.incopat.com)       |
 
-**Note: **
+**Note:**
 
 - **Phone industry chain data_Wind database.csv**: This file stores the all original smartphone industry chain dataset to classify each company, totaling 27,699 pieces of data. The classification is based on the "full_class" field  in this file and "Table 1. Smart phone industry chain and actor classification" in the paper. The more other industry chain data can be found on the [Wind database][https://www.wind.com.cn].
 
